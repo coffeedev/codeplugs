@@ -1,5 +1,3 @@
-"# codeplugs" 
-
 ### F4HWN Firmware for Quansheng UV-K1
 
 The F4HWN custom firmware for the Quansheng UV-K1 is available here:
